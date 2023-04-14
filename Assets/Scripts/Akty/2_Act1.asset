@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 999a877bd0c9943489c53c33f70f7538, type: 3}
+  m_Name: 2_Act1
+  m_EditorClassIdentifier: 
+  infoImage: {fileID: 0}
+  characterImage: {fileID: 0}
+  starPosition: 1
+  info: "Zaprzyja\u017Aniony ci Polak mieszkaj\u0105cy na okupowanych terenach opisuje
+    ci beznadziejn\u0105 sytuacj\u0119 panuj\u0105c\u0105 w kraju oraz fatalne warunki
+    \u017Cycia oferowane przez Niemc\xF3w."
+  par1Type: ekonomia
+  par2Type: wojsko
+  par3Type: wola walki
+  par4Type: relacje z aliantami
+  btn1Par1: -20
+  btn1Par2: 10
+  btn1Par3: 10
+  btn1Par4: 5
+  btn2Par1: 0
+  btn2Par2: 0
+  btn2Par3: -25
+  btn2Par4: 0
+  btn3Par1: 0
+  btn3Par2: 0
+  btn3Par3: -10
+  btn3Par4: 0
+  btnComment1: "Musimy odnowi\u0107 nasz\u0105 armi\u0119. Przez Rumuni\u0119 dostan\u0119
+    si\u0119 do Francji, a nast\u0119pnie postaram si\u0119 o zgod\u0119 Aliant\xF3w
+    na tworzenie polskiej armii na uchod\u017Actwie. W ten spos\xF3b zdob\u0119d\u0119
+    nowe kontakty na zachodzie, zyskamy uznanie aliant\xF3w oraz odbuduj\u0119 Polsk\u0105
+    armi\u0119."
+  btnComment2: "Nic nie mog\u0119 z tym zrobi\u0107. Nie mam wystarczaj\u0105cych
+    \u015Brodk\xF3w, aby pom\xF3c. Na razie musimy przeczeka\u0107 i liczy\u0107
+    na pojawienie si\u0119 bardziej sprzyjaj\u0105cych okoliczno\u015Bci. Przykro
+    mi."
+  btnComment3: "Zdaj\u0119 sobie spraw\u0119 z nieludzkiego traktowania, z jakim
+    spotykaj\u0105 si\u0119 moi rodacy. Ale niestety nie mamy niezb\u0119dnych \u015Brodk\xF3w
+    aby cokolwiek zmieni\u0107 si\u0142\u0105. Starajmy si\u0119 znale\u017A\u0107
+    bardziej pokojowe metody, w ko\u0144cu tylko to nam zosta\u0142o\u2026"
+  btnInfo1: "Rozpocznij organizacj\u0119 polskich si\u0142 zbrojnych na Zachodzie"
+  btnInfo2: "Zignoruj wiadomo\u015B\u0107"
+  btnInfo3: "Z\u0142\xF3\u017C obietnic\u0119 pokojowego rozwi\u0105zania problemu "
+  year: 1940
+  chapter: 2
